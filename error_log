@@ -1,0 +1,1 @@
+[08-Sep-2020 21:28:00 Asia/Jakarta] PHP Fatal error:  Cannot redeclare Frontend::contact() in /home/berkahn1/public_html/application/controllers/Frontend.php on line 65
